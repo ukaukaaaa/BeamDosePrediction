@@ -10,7 +10,7 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
 
 * Visualization of our results and some comparisons with other methods. 
 
-![](\info\visualization.png)
+![](info/visualization.png)
 
 
 
