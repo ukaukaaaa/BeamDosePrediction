@@ -24,6 +24,7 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
 
 ## Citation
 
+~~~
   @inproceedings{wang2022deep,
     title={Deep learning-based Head and Neck Radiotherapy Planning Dose Prediction via Beam-wise Dose Decomposition},
     author={Wang, Bin and Teng, Lin and Mei, Lanzhuju and Cui, Zhiming and Xu, Xuanang and Feng, Qianjin and Shen, Dinggang},
@@ -32,6 +33,7 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
     year={2022},
     organization={Springer}
   }
+~~~
 
 ## contact
 You are welcome to contact us:
