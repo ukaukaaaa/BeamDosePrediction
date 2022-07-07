@@ -15,13 +15,13 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
 ![](info/visualization.png)
 
 
-* Quantitative results
+* Our algorithm has been evaluated on the public Dataset OpenKBP and we achieve the state-of-the-art quantitative results as follows:
 
 | Dose score | DVH score |
 | :--------: | :-------: |
 |   2.276    |   1.257   |
 
-
+<!-- 
 ## Citation
 
 ~~~
@@ -33,7 +33,7 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
     year={2022},
     organization={Springer}
   }
-~~~
+~~~ -->
 
 ## contact
 You are welcome to contact us:
