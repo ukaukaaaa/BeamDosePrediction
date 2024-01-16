@@ -1,6 +1,11 @@
 # BeamDosePrediction
-
+[[`Paper`]([https://arxiv.org/abs/2305.18221](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_55))] [[`BibTeX`](#citing)]
 This is the implementation of our paper **"Deep learning-based Head and Neck Radiotherapy Planning Dose Prediction via Beam-wise Dose Decomposition"** published in **MICCAI 2022**.
+
+## News
+
+Our extended journal paper, "Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy", has already been published on Medical Image Analysis, 2024. 
+[[`Paper`](https://www.sciencedirect.com/science/article/pii/S1361841523003055)] [[`Code`](https://github.com/TL9792/BDCLDosePrediction)] [[`BibTeX`](#citing)]
 
 
 ## Abstract
@@ -21,19 +26,30 @@ Accurate dose map prediction is key to external radiotherapy. Previous methods h
 | :--------: | :-------: |
 |   2.276    |   1.257   |
 
-<!-- 
-## Citation
 
-~~~
-  @inproceedings{wang2022deep,
-    title={Deep learning-based Head and Neck Radiotherapy Planning Dose Prediction via Beam-wise Dose Decomposition},
-    author={Wang, Bin and Teng, Lin and Mei, Lanzhuju and Cui, Zhiming and Xu, Xuanang and Feng, Qianjin and Shen, Dinggang},
-    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-    pages={584--593},
-    year={2022},
-    organization={Springer}
-  }
-~~~ -->
+## Citing
+
+```
+@inproceedings{wang2022deep,
+  title={Deep Learning-Based Head and Neck Radiotherapy Planning Dose Prediction via Beam-Wise Dose Decomposition},
+  author={Wang, Bin and Teng, Lin and Mei, Lanzhuju and Cui, Zhiming and Xu, Xuanang and Feng, Qianjin and Shen, Dinggang},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={575--584},
+  year={2022},
+  organization={Springer}
+}
+
+@article{teng2024beam,
+  title={Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy},
+  author={Teng, Lin and Wang, Bin and Xu, Xuanang and Zhang, Jiadong and Mei, Lanzhuju and Feng, Qianjin and Shen, Dinggang},
+  journal={Medical Image Analysis},
+  volume={92},
+  pages={103045},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
 
 ## contact
 You are welcome to contact us:
