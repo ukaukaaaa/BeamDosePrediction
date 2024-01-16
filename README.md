@@ -1,5 +1,5 @@
 # BeamDosePrediction
-[[`Paper`]([https://arxiv.org/abs/2305.18221](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_55))] [[`BibTeX`](#citing)]
+[[`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_55)] [[`BibTeX`](#citing)]
 This is the implementation of our paper **"Deep learning-based Head and Neck Radiotherapy Planning Dose Prediction via Beam-wise Dose Decomposition"** published in **MICCAI 2022**.
 
 ## News
