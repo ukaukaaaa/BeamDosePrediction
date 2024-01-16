@@ -5,7 +5,7 @@ This is the implementation of our paper **"Deep learning-based Head and Neck Rad
 
 ## News
 
-Our extended journal paper, "Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy", has already been published on Medical Image Analysis, 2024. More detailed Code has been released with this paper.
+Our extended journal paper, **"Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy"**, has already been published on **Medical Image Analysis**, 2024. More detailed Code has been released with this paper.
 
 [[`Paper`](https://www.sciencedirect.com/science/article/pii/S1361841523003055)] [[`Code`](https://github.com/TL9792/BDCLDosePrediction)] [[`BibTeX`](#citing)]
 
