@@ -1,10 +1,12 @@
 # BeamDosePrediction
 [[`Paper`](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_55)] [[`BibTeX`](#citing)]
+
 This is the implementation of our paper **"Deep learning-based Head and Neck Radiotherapy Planning Dose Prediction via Beam-wise Dose Decomposition"** published in **MICCAI 2022**.
 
 ## News
 
-Our extended journal paper, "Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy", has already been published on Medical Image Analysis, 2024. 
+Our extended journal paper, "Beam-wise dose composition learning for head and neck cancer dose prediction in radiotherapy", has already been published on Medical Image Analysis, 2024. More detailed Code has been released with this paper.
+
 [[`Paper`](https://www.sciencedirect.com/science/article/pii/S1361841523003055)] [[`Code`](https://github.com/TL9792/BDCLDosePrediction)] [[`BibTeX`](#citing)]
 
 
